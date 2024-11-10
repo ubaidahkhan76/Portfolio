@@ -9,7 +9,7 @@ import HireMe from "@/components/hireme";
 
 export default function Home() {
   useEffect(() => {
-    const typeWriterEffect = (elementId , text , delay = 100) => {
+    const typeWriterEffect = (elementId: string, text: string, delay = 100) => {
       let index = 0;
       const element = document.getElementById(elementId);
       if (element) {
