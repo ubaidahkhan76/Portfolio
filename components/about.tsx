@@ -20,7 +20,7 @@ export default function About() {
                 id="abh1" 
                 className="text-lg sm:text-xl lg:text-2xl max-w-2xl"
             >
-                I&apos;m Abu Ubaidah Khan, a Web Developer. I have expertise in HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, and Next.js. I'm able to create landing pages and small projects, and I am currently enrolled in the GIAC program, Quarter 2, to learn Web 3.0, Blockchain, and Metaverse.
+                I&apos;m Abu Ubaidah Khan, a Web Developer. I have expertise in HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, and Next.js. I&apos;m able to create landing pages and small projects, and I am currently enrolled in the GIAC program, Quarter 2, to learn Web 3.0, Blockchain, and Metaverse.
             </h2>
         </div>
     );
